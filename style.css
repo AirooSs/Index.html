@@ -1,0 +1,88 @@
+.Tabla_breaking_bad {
+    border: 2px solid black; /* Bordes */
+    margin: auto; /* Centrar la tabla */
+    text-align: center; /*Alineamos texto al centro*/
+    border-collapse: collapse; /* Hace que los bordes no se dupliquen */
+    border-spacing: 9;
+    background-color: white;
+    
+}
+
+.Tabla_breaking_bad td {
+    border: 1px solid black; /* Bordes en las celdas */
+    width: 60px; /*anchura de celda*/
+    height: 50px; /*altura de celda*/
+    font-size: 40px;
+    border: 8px solid black;
+}
+.color_1{
+    background-color: #b8d82c;
+}
+.color_2{
+    background-color: black;
+}
+.color_3{
+    background-color: #627126;
+}
+.color_4{
+background-color: #c3c629;
+}
+.color_5{
+    background-color: #bbc49f;
+}
+.color_6{
+    background-color: #eff7c8;
+}
+.color_7{
+    background-color: #89a418;
+}
+.color_8{
+    background-color: #627124;
+}
+.color_9{
+    background-color: #ad8eca;
+}
+.color_10{
+    background-color: #def57b;
+}
+.color_11{
+    background-color: #c3c629;
+}
+.imagen_cabecera_tabla{
+    text-align: center;
+    margin:auto;
+    display: block;
+    
+}
+
+.body_tabla{
+    background-color: #0c3e11;
+    font-family: Helvetica;
+    font-weight: 700;
+    color: black;
+    font-size: 40px;
+    
+}
+.body_form{
+    font-family: Helvetica;
+    background-image: url(IMG/fondo.jpg);
+    background-size: cover;
+}
+.body_index{
+    font-family:'Tipografia Breaking Bad';
+    src: url(IMG/Breaking\ Bad.ttf) format('truetype');
+    text-align: center;
+    background-image: url(IMG/fondo.jpg); /* imagen de fondo*/
+    color: white;
+    background-size: cover;
+
+}
+.figcaption{
+    text-align: center;
+    font-size: 10px;
+}
+.poster{
+    border: 10px outset brown; 
+    border-radius:22px;
+   
+}
